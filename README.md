@@ -78,9 +78,13 @@ The objectives of this project was to determine and analyze the following custom
 ![Screenshot (109)](https://github.com/user-attachments/assets/5f1505b7-5a25-4735-99e3-58c02776f953)
 
 ## 8. Customers who cancelled their Subscription within 6 months
+![Screenshot (103)](https://github.com/user-attachments/assets/6a4ab5b8-2381-4657-b5d9-eaa92023ba88)
+
 
 
 ## 9. Average Subscription Duration for all Customers
+![Screenshot (104)](https://github.com/user-attachments/assets/4a3eb551-07ec-42da-8a28-763c1119f44e)
+
 
 ## 10. Custormers with Subscription longer than 12 months
 
