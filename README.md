@@ -57,10 +57,16 @@ The objectives of this project was to determine and analyze the following custom
 ## 4. Active and Cancelled Subscription by each Region
 ![Screenshot (93)](https://github.com/user-attachments/assets/554c709f-44a1-4e69-ac05-042ce5fad944)
 
-- Total Number of Customers by Subscription Type
-- Total Revenue generated Yearly
-- The most popular Subscription Type by the number of Customers
-- Customers who cancelled their Subscription within 6 months
-- Average Subscription Duration for all Customers
-- Custormers with Subscription longer than 12 months
-- Total Number of Active and Cancelled Subscription by each Region
+## 5. Total Number of Customers by Subscription Type
+
+## 6.Total Revenue generated Yearly
+
+## 7. The most popular Subscription Type by the number of Customers
+
+## 8. Customers who cancelled their Subscription within 6 months
+
+## 9. Average Subscription Duration for all Customers
+
+## 10. Custormers with Subscription longer than 12 months
+
+## 11. Total Number of Active and Cancelled Subscription by each Region
