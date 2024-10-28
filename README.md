@@ -1,9 +1,7 @@
 # LITA-CAPSTONE-CUSTOMER-DATA-PROJECT
-This project focuses on analyzing customer data for a subscription service to identify segments and trends.
-# LITA-CAPSTONE-SALES-DATA-PROJECT
 
 ## Project Overview
-This project collects data and analyses the sales performance of a retail store. The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend. The analysis also highlights key metrics such as Total Sales by each Product, Average Sales per Product and Total Sales by Region
+This project focuses on analyzing customer data for a subscription service to identify segments and trends with the aim of understanding customer behavior, tracking subscription types and pinpointing key parterns in cancellations and renewals. 
 
 ## Data Source
 The data used for this sales analysis was collected from the retail's store Point of Sales System(POS)
