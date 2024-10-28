@@ -47,6 +47,10 @@ The objectives of this project was to determine and analyze the following custom
 ## 1. Region by Total Revenue - Microsoft Excel
 ![Screenshot (87)](https://github.com/user-attachments/assets/4a1dcb89-4ea7-4ce3-8a53-51ca0fd24a37)
 
+## 2. Total Number of Customers from each region - SQL
+![Screenshot (108)](https://github.com/user-attachments/assets/794ab4a6-bb41-4c34-a0d6-fb3cc8b53fe7)
+
+
 ## 2. Total Revenue by Subscription Type
 
 
@@ -57,20 +61,24 @@ The objectives of this project was to determine and analyze the following custom
 ## 4. Active and Cancelled Subscription by each Region
 ![Screenshot (93)](https://github.com/user-attachments/assets/554c709f-44a1-4e69-ac05-042ce5fad944)
 
-## 5. Total Number of Customers by Subscription Type
-![Screenshot (94)](https://github.com/user-attachments/assets/84baa9e9-a921-4f29-a6ff-0f00480c2e37)
-## Filtered Pie Chart for Year 2023
-![Screenshot (96)](https://github.com/user-attachments/assets/10e5f779-b570-43fb-82e8-dd97f06beffb)
-## Filtered Pie Chart for Year 2024
-![Screenshot (97)](https://github.com/user-attachments/assets/1b45a45f-7259-499d-9270-7da712c5afbc)
+
 
 
 ## 6.Total Revenue generated Yearly
 ![Screenshot (95)](https://github.com/user-attachments/assets/4c3a016b-52f2-482e-9280-d5a4fc8493f7)
 
+## 7.
+## Filtered Volumn Chart 2023
+![Screenshot (98)](https://github.com/user-attachments/assets/ee741791-74db-47df-91a7-427099f53c0a)
+## Filtered Volumn Chart 2024
+![Screenshot (99)](https://github.com/user-attachments/assets/7a7e0766-e655-450d-83b4-72149e2d9328)
+
+
 ## 7. The most popular Subscription Type by the number of Customers
+![Screenshot (109)](https://github.com/user-attachments/assets/5f1505b7-5a25-4735-99e3-58c02776f953)
 
 ## 8. Customers who cancelled their Subscription within 6 months
+
 
 ## 9. Average Subscription Duration for all Customers
 
