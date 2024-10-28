@@ -76,4 +76,3 @@ The objectives of this project was to determine and analyze the following custom
 
 ## 10. Custormers with Subscription longer than 12 months
 
-## 11. Total Number of Active and Cancelled Subscription by each Region
