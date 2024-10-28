@@ -61,6 +61,8 @@ The objectives of this project was to determine and analyze the following custom
 ![Screenshot (94)](https://github.com/user-attachments/assets/84baa9e9-a921-4f29-a6ff-0f00480c2e37)
 ## Filtered Pie Chart for Year 2023
 ![Screenshot (96)](https://github.com/user-attachments/assets/10e5f779-b570-43fb-82e8-dd97f06beffb)
+## Filtered Pie Chart for Year 2024
+![Screenshot (97)](https://github.com/user-attachments/assets/1b45a45f-7259-499d-9270-7da712c5afbc)
 
 
 ## 6.Total Revenue generated Yearly
