@@ -65,8 +65,10 @@ The objectives of this project was to determine and analyze the following custom
 
 ## Total number of Active and Cancelled Subscription - SQL
 ## Active
-![Screenshot (110)](https://github.com/user-attachments/assets/edc3191e-d394-45a9-b370-759783397367)
+![Screenshot (113)](https://github.com/user-attachments/assets/3b512405-95fe-4f09-b7f1-61e3381c3300)
+
 ## Cancelled
+![Screenshot (114)](https://github.com/user-attachments/assets/7c61534c-7817-4783-948c-599f2a93eb62)
 
 ## 6.Total Revenue generated Yearly
 ![Screenshot (95)](https://github.com/user-attachments/assets/4c3a016b-52f2-482e-9280-d5a4fc8493f7)
