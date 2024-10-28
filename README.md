@@ -29,10 +29,11 @@ The objectives of this project was to determine and analyze the following custom
 - Average Subscription Duration for all Customers
 - Custormers with Subscription longer than 12 months
 - Total Number of Active and Cancelled Subscription by each Region
+
 ## Data Cleaning and Exploratory Data Analysis (EDA)
 - EDA alongside data cleaning was performed in this project to understand the dataset's structure, identify and handle missing values and address any data quality issues.
-  - A missing colunm was added, which was the Revenue column which was found by multipling the Quantity by the Unit Price in order to know the Total Sales generated.
   - The data was checked for duplicates by highlighting the whole data in an excel sheet and clicking on the 'Remove Duplicates' in the Data tab interface.
+  - Data quality was checked for in the data when it was uploaded in Power Bi to check for any errors in the data.
 
 ## Data Tools and Methods Used
 1. Microsoft Excel 
@@ -41,3 +42,5 @@ The objectives of this project was to determine and analyze the following custom
 - For Visualization - Bar charts were used to visually represent key insights
 2. Structured Query Language(SQL) for Quering of Data
 3. Power BI used for converting data from different data sources to interactive dashbords and BI reports.
+
+## Data Visualization and Analysis and Inferences
