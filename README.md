@@ -4,16 +4,17 @@
 This project focuses on analyzing customer data for a subscription service to identify segments and trends with the aim of understanding customer behavior, tracking subscription types and pinpointing key parterns in cancellations and renewals. 
 
 ## Data Source
-The data used for this sales analysis was collected from the retail's store Point of Sales System(POS)
+The data used for this sales analysis was collected from the Subscription Service's Internal CRM and Billing Systems.
 - Data Collected:
-1. Order Id
-2. Custormer Id
-3. Product
-4. Region
-5. Order Date
-6. Quantity
-7. Unit Price
-- Timeframe: Data from 31st of January 2023 to 1st of September 2024
+1. Custormer ID
+2. Custormer Name
+3. Region
+4. Subscription Type
+5. Subscription Start Date
+6. Subscription End Date
+7. Subscription Cancellation
+8. Revenue
+- Timeframe: Data from 31st of January 2022 to 1st of September 2024
 
 ## Project Objective
 The objectives of this project was to determine and analyze the following;
