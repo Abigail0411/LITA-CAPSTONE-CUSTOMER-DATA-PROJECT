@@ -59,6 +59,9 @@ The objectives of this project was to determine and analyze the following custom
 
 ## 5. Total Number of Customers by Subscription Type
 ![Screenshot (94)](https://github.com/user-attachments/assets/84baa9e9-a921-4f29-a6ff-0f00480c2e37)
+## Filtered Pie Chart for Year 2023
+![Screenshot (96)](https://github.com/user-attachments/assets/10e5f779-b570-43fb-82e8-dd97f06beffb)
+
 
 ## 6.Total Revenue generated Yearly
 ![Screenshot (95)](https://github.com/user-attachments/assets/4c3a016b-52f2-482e-9280-d5a4fc8493f7)
