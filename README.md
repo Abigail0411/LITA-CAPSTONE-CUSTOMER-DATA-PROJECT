@@ -19,16 +19,16 @@ The data used for this sales analysis was collected from the Subscription Servic
 ## Project Objective
 The objectives of this project was to determine and analyze the following customer segments and subscription parterns
 - Region by Total Revenue
+- Total Revenue by Subscription Type
 - Percentage of Total Revenue by Subscription Type
 - Active and Cancelled Subscription by each Region
 - Total Number of Customers by Subscription Type
 - Total Revenue generated Yearly
-- The Highest-selling product by the total sales
-- The Top 5 Customers by their purchase amount
-- Number of sales transactions in each region
-- The percentage of total sales contributed by each region
-- The products with no sales in the last quarter
-
+- The most popular Subscription Type by the number of Customers
+- Customers who cancelled their Subscription within 6 months
+- Average Subscription Duration for all Customers
+- Custormers with Subscription longer than 12 months
+- Total Number of Active and Cancelled Subscription by each Region
 ## Data Cleaning and Exploratory Data Analysis (EDA)
 - EDA alongside data cleaning was performed in this project to understand the dataset's structure, identify and handle missing values and address any data quality issues.
   - A missing colunm was added, which was the Revenue column which was found by multipling the Quantity by the Unit Price in order to know the Total Sales generated.
