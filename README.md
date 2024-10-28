@@ -44,3 +44,17 @@ The objectives of this project was to determine and analyze the following custom
 3. Power BI used for converting data from different data sources to interactive dashbords and BI reports.
 
 ## Data Visualization and Analysis and Inferences
+## 1.  Region by Total Revenue - Microsoft Excel
+![Screenshot (87)](https://github.com/user-attachments/assets/4a1dcb89-4ea7-4ce3-8a53-51ca0fd24a37)
+
+
+- Total Revenue by Subscription Type
+- Percentage of Total Revenue by Subscription Type
+- Active and Cancelled Subscription by each Region
+- Total Number of Customers by Subscription Type
+- Total Revenue generated Yearly
+- The most popular Subscription Type by the number of Customers
+- Customers who cancelled their Subscription within 6 months
+- Average Subscription Duration for all Customers
+- Custormers with Subscription longer than 12 months
+- Total Number of Active and Cancelled Subscription by each Region
