@@ -117,7 +117,7 @@ Investing in infrastructure upgrade, investing in improving network reliability 
  - Educate Basic Subscription users on the benefits of Standard and Premium Subscriptions through targeted campaigns and also review their prices and make it competitive without affecting potential profits on upgrades.
  - 
 ### 4. Conclusion;
-By enhancing percived value and upgrading the service, Petal can balance its revenue distribution well and increase profitability.
+By enhancing percived value and upgrading the service, Petal can balance its revenue distribution well and increase profitability. Their goal is to reduce customer dependency on Basic Subscription making upgrades appealing and affordable in a way that alings with customer expectations.
 
 ## 5. Total number of Active and Cancelled Subscription - SQL
 ## Active Subscription 
