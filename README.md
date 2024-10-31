@@ -51,7 +51,61 @@ The objective of the project was to analyzing customer data for Petal Internet S
 
 SUMIF(range,criteria,[sum_range])
 SQL queries executed
+Select Region, Count(CustomerID) As Total_No_Customers
+From Customer_Data
+Group by Region
+Order by 2 Desc
 
+---------find the most popular subscription type by the number of customers-----
+
+Select Top 1 SubscriptionType, Count(CustomerID) As Total_Customers
+From Customer_Data
+Group by SubscriptionType
+
+---------find customers who canceled their subscription within 6 months-----
+
+Select CustomerID, CustomerName, SubscriptionStart, SubscriptionEnd, Canceled,
+Datediff(Month, SubscriptionStart, SubscriptionEnd) As Subscription_Duration
+From Customer_Data
+Where Canceled = 'True' and Datediff(Month, SubscriptionStart, SubscriptionEnd)<=6
+ 
+ ------calculate the average subscription duration for all customers-----
+
+
+Select Avg(Datediff(Day, SubscriptionStart, SubscriptionEnd)) As Average_Subscription_Duration
+From Customer_Data
+
+
+-----find customers with subscriptions longer than 12 months-----
+Select CustomerID, CustomerName, SubscriptionStart, SubscriptionEnd, 
+Datediff(Month, SubscriptionStart, SubscriptionEnd) as Subscription_Length
+From Customer_Data
+Where Datediff(Month, SubscriptionStart, SubscriptionEnd)>12
+
+---calculate total revenue by subscription type----
+
+Select SubscriptionType, Sum(Revenue) as Total_Revenue
+From Customer_Data
+Group by SubscriptionType
+
+-----find the top 3 regions by subscription cancellations------
+
+Select Top 3 Region, Count(Canceled) as Subscription_Cancelled
+From Customer_Data
+Where Canceled = 'True'
+Group by Region
+
+
+----find the total number of active and canceled subscriptions----
+
+
+SELECT COUNT(CustomerID) as Total_No_Of_Active_Subscription 
+FROM Customer_Data
+where Canceled = 'False'
+
+SELECT COUNT(CustomerID) as Total_No_Of_Canceled_Subscription 
+FROM Customer_Data
+where Canceled = 'True'
 ## Data Visualization and Analysis and Inferences
 ## 1. Region by Total Revenue - Microsoft Excel
 ## Pivot Table 1
