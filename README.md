@@ -79,8 +79,8 @@ To unlock the revenue potential in all the regions, Petal Internet Service Provi
 - Customer Distribution by Region;
 The SQL query return shows that East region has the highest number of customers and West region has the lowest number of customers.
 - Customer Loyalty Partterns;
- - East region exhibits strong customer loyalty as shown in the pivot table. In that no customer cancelled their subscription in both years, likely due to pupulation density and high demand for reliable internet services as well ascustomer satisfaction.
- - North, South and West regions have lowercustomer retention, looking at the fact that the number of customers that left the service is more than the returning and active customers indicating possible challenges in customer satisfaction.
+  * East region exhibits strong customer loyalty as shown in the pivot table. In that no customer cancelled their subscription in both years, likely due to pupulation density and high demand for reliable internet services as well ascustomer satisfaction.
+  * North, South and West regions have lowercustomer retention, looking at the fact that the number of customers that left the service is more than the returning and active customers indicating possible challenges in customer satisfaction.
 
 ### 2. Strategy Intervention;
 - Petal Internet Service Provider should invest in infrastructure upgrades to reduce service interuptions especially during peak usage hours and offer promotional rates for the East region so as to retain customers.
