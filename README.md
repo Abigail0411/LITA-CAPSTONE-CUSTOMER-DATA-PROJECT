@@ -58,45 +58,45 @@ Select Region, Count(CustomerID) As Total_No_Customers
 From Customer_Data
 Group by Region
 Order by 2 Desc
-
+```
 
 ```SQL
 Select Top 1 SubscriptionType, Count(CustomerID) As Total_Customers
 From Customer_Data
 Group by SubscriptionType
-
+```
 
 ```SQL
 Select CustomerID, CustomerName, SubscriptionStart, SubscriptionEnd, Canceled,
 Datediff(Month, SubscriptionStart, SubscriptionEnd) As Subscription_Duration
 From Customer_Data
 Where Canceled = 'True' and Datediff(Month, SubscriptionStart, SubscriptionEnd)<=6
- 
+ ```
 
 ```SQL
 Select Avg(Datediff(Day, SubscriptionStart, SubscriptionEnd)) As Average_Subscription_Duration
 From Customer_Data
-
+```
 
 ```SQL
 Select CustomerID, CustomerName, SubscriptionStart, SubscriptionEnd, 
 Datediff(Month, SubscriptionStart, SubscriptionEnd) as Subscription_Length
 From Customer_Data
 Where Datediff(Month, SubscriptionStart, SubscriptionEnd)>12
-
+```
 
 ```SQL
 Select SubscriptionType, Sum(Revenue) as Total_Revenue
 From Customer_Data
 Group by SubscriptionType
-
+```
 
 ```SQL
 Select Top 3 Region, Count(Canceled) as Subscription_Cancelled
 From Customer_Data
 Where Canceled = 'True'
 Group by Region
-
+```
 
 ```SQL
 SELECT COUNT(CustomerID) as Total_No_Of_Active_Subscription 
