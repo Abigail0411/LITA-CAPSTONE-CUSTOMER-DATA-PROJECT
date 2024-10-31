@@ -56,6 +56,9 @@ The objectives of this project was to determine and analyze the following custom
 ## 2. Total Revenue by Subscription Type - SQL
 
 ![Screenshot (106)](https://github.com/user-attachments/assets/7dcab25d-8cb2-476d-873b-7aff2aebfd53)
+![Screenshot (148)](https://github.com/user-attachments/assets/8155b7b9-9a3d-4711-ba8b-4ce21fb3f870)
+![Screenshot (147)](https://github.com/user-attachments/assets/3356c7aa-ffc4-43e3-81ec-4881d0feaedc)
+
 
 
 ## 3. Percentage of Total Revenue by Subscription Type
