@@ -114,7 +114,10 @@ Investing in infrastructure upgrade, investing in improving network reliability 
    * The lower revenue contribution from Standard and Premium Subscriptions suggests that customers may not perceive enough value to want to upgrade.
 ### 3. Strategic Intervention;
  - Petal should enhance perceived value of Standard and Premium plans by adding exclusive features e.g bundled services or faster network speed.
- - Educate Basic Subscription users on the benefits of Standard and Premium Subscriptions through targeted campaigns.
+ - Educate Basic Subscription users on the benefits of Standard and Premium Subscriptions through targeted campaigns and also review their prices and make it competitive without affecting potential profits on upgrades.
+ - 
+### 4. Conclusion;
+By enhancing percived value and upgrading the service, Petal can balance its revenue distribution well and increase profitability.
 
 ## 5. Total number of Active and Cancelled Subscription - SQL
 ## Active Subscription 
