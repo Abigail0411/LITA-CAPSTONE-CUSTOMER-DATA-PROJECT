@@ -75,21 +75,18 @@ To unlock the revenue potential in all the regions, Petal Internet Service Provi
 ![Screenshot (108)](https://github.com/user-attachments/assets/794ab4a6-bb41-4c34-a0d6-fb3cc8b53fe7)
 ## Pivot Table - Microsoft Excel
 ![Screenshot (93)](https://github.com/user-attachments/assets/554c709f-44a1-4e69-ac05-042ce5fad944)
-### Inferences:
-### 1. Customer Distribution by Region;
+### 1. Inferences:
+- Customer Distribution by Region;
 The SQL query return shows that East region has the highest number of customers and West region has the lowest number of customers.
-### 2. Customer Loyalty Partterns;
-- East region exhibits strong customer loyalty as shown in the pivot table. In that no customer cancelled their subscription in both years, likely due to pupulation density and high demand for reliable internet services as well ascustomer satisfaction.
-- North, South and West regions have lowercustomer retention, looking at the fact that the number of customers that left the service is more than the returning and active customers indicating possible challenges in customer satisfaction.
+- Customer Loyalty Partterns;
+ - East region exhibits strong customer loyalty as shown in the pivot table. In that no customer cancelled their subscription in both years, likely due to pupulation density and high demand for reliable internet services as well ascustomer satisfaction.
+ - North, South and West regions have lowercustomer retention, looking at the fact that the number of customers that left the service is more than the returning and active customers indicating possible challenges in customer satisfaction.
 
-### Strategy Intervention;
+### 2. Strategy Intervention;
 - Petal Internet Service Provider should invest in infrastructure upgrades to reduce service interuptions especially during peak usage hours and offer promotional rates for the East region so as to retain customers.
 - In North, South and West regions, the internet provider should invest in network expansion to improve speed and reliability, provide affordable subscription plans/types and flexible payment options to attract customers with limitedbudgets.
 - They can also offer internet and Tv or internet and phone bundles to appeal to households interested in comprehensive services.
   
-
-- 
-
 
 
 ## 2. Total Revenue by Subscription Type - SQL
