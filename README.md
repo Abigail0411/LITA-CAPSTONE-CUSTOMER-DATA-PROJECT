@@ -73,6 +73,7 @@ To unlock the revenue potential in all the regions, Petal Internet Service Provi
 
 ## 2. Total Number of Customers from each region - SQL
 ![Screenshot (108)](https://github.com/user-attachments/assets/794ab4a6-bb41-4c34-a0d6-fb3cc8b53fe7)
+## Pivot Table - Microsoft Excel
 ![Screenshot (93)](https://github.com/user-attachments/assets/554c709f-44a1-4e69-ac05-042ce5fad944)
 
 
