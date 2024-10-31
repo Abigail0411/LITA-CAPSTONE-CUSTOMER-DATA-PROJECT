@@ -77,7 +77,7 @@ To unlock the revenue potential in all the regions, Petal Internet Service Provi
 ![Screenshot (93)](https://github.com/user-attachments/assets/554c709f-44a1-4e69-ac05-042ce5fad944)
 ### 1. Inferences:
 - Customer Distribution by Region;
-The SQL query return shows that East region has the highest number of customers and West region has the lowest number of customers.
+  * The SQL query return shows that East region has the highest number of customers and West region has the lowest number of customers.
 - Customer Loyalty Partterns;
   * East region exhibits strong customer loyalty as shown in the pivot table. In that no customer cancelled their subscription in both years, likely due to pupulation density and high demand for reliable internet services as well ascustomer satisfaction.
   * North, South and West regions have lowercustomer retention, looking at the fact that the number of customers that left the service is more than the returning and active customers indicating possible challenges in customer satisfaction.
@@ -87,7 +87,8 @@ The SQL query return shows that East region has the highest number of customers 
 - In North, South and West regions, the internet provider should invest in network expansion to improve speed and reliability, provide affordable subscription plans/types and flexible payment options to attract customers with limitedbudgets.
 - They can also offer internet and Tv or internet and phone bundles to appeal to households interested in comprehensive services.
   
-
+### 3. Conclusion
+Investing in infrastructure upgrade, investing in improving network reliability and introducing promotions will help in retaining and attracting new customers.
 
 ## 2. Total Revenue by Subscription Type - SQL
 
