@@ -104,6 +104,11 @@ To unlock the revenue potential in all the regions, Petal Internet Service Provi
 ### 1. Customers satisfaction and Service quality;
 - The returns om the SQL queries show that the no. of customers who are currently subscribed are more than the customers that left which may suggest that the service is of good quality.
 - Even though the returns show that active is more than canceled subscription, the number of subcribers that canceled are quite much which may indicate poor network performance, rising competition or inadequate customer support.
+### 2. Strategic Intervention;
+For Petal Internet Service to manange the active and canceled subscriptions effectively, they can implement the following strategies.
+- Ratain existing customers by enhancing service quality focusing on improving network reliability and speed, and also offering discounts or package upgrades to long-term subscribers.
+- They can minimize new cancellations by gathering regular feedback from customers, especially those who cancel their subscription, which will provide insights to address common concerns. Petal should ensure pricing is competitive by benchmarking against other providers in the market.
+### Conclusion 
 
 
 ## 7.
