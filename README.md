@@ -109,7 +109,8 @@ For Petal Internet Service to manange the active and canceled subscriptions effe
 - Ratain existing customers by enhancing service quality focusing on improving network reliability and speed, and also offering discounts or package upgrades to long-term subscribers.
 - They can minimize new cancellations by gathering regular feedback from customers, especially those who cancel their subscription, which will provide insights to address common concerns. Petal should ensure pricing is competitive by benchmarking against other providers in the market.
 ### Conclusion 
-
+- By understanding the factors behind active and cancelled subscriptions, Petal Internet Service Provider can drive improvements across engagement and pricing strategies.
+- The strategic interventions mentioned above will likely lead to higher retention rates and having a number of customers who are satisfied with the service.
 
 ## 7.
 ## Filtered Volumn Chart 2023
