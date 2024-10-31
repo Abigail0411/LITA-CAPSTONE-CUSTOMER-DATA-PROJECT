@@ -119,7 +119,7 @@ Investing in infrastructure upgrade, investing in improving network reliability 
 ### 4. Conclusion;
 By enhancing percived value and upgrading the service, Petal can balance its revenue distribution well and increase profitability. Their goal is to reduce customer dependency on Basic Subscription making upgrades appealing and affordable in a way that alings with customer expectations.
 
-## 5. Total number of Active and Cancelled Subscription - SQL
+## 4. Total number of Active and Cancelled Subscription - SQL
 ## Active Subscription 
 ![Screenshot (113)](https://github.com/user-attachments/assets/3b512405-95fe-4f09-b7f1-61e3381c3300)
 
@@ -132,7 +132,7 @@ By enhancing percived value and upgrading the service, Petal can balance its rev
 ### 1. Customers satisfaction and Service quality;
 - The returns om the SQL queries show that the no. of customers who are currently subscribed are more than the customers that left which may suggest that the service is of good quality.
 - Even though the returns show that active is more than canceled subscription, the number of subcribers that canceled are quite much which may indicate poor network performance, rising competition or inadequate customer support.
-### 2. Strategic Intervention;
+### 2. Strategic Intervention
 For Petal Internet Service to manange the active and canceled subscriptions effectively, they can implement the following strategies.
 - Ratain existing customers by enhancing service quality focusing on improving network reliability and speed, and also offering discounts or package upgrades to long-term subscribers.
 - They can minimize new cancellations by gathering regular feedback from customers, especially those who cancel their subscription, which will provide insights to address common concerns. Petal should ensure pricing is competitive by benchmarking against other providers in the market.
@@ -141,19 +141,30 @@ For Petal Internet Service to manange the active and canceled subscriptions effe
 - The strategic interventions mentioned above will likely lead to higher retention rates and having a number of customers who are satisfied with the service.
 
 
-## 7. The most popular Subscription Type by the number of Customers
+## 5. The most popular Subscription Type by the number of Customers
 ![Screenshot (109)](https://github.com/user-attachments/assets/5f1505b7-5a25-4735-99e3-58c02776f953)
-
-## 8. Customers who cancelled their Subscription within 6 months
+### 1. Data Overview
+-  Out of 33,787 customers, 16,921 customers are subscribed with the Basic Subscription plan making Basic plan the most popular subscription type.
+### 2. Inferences
+- #### Affordability;
+  * The high popularity of basic subscription could suggest price-sensitive cusstomers who go for cheap andaffordable prices.
+- #### Service Requirement;
+  * Many customers may only need the internet for basic tasks leading them to settle for theleast plan.
+### 3. Strategive Recomendations
+- Petal should introduce targeted marketing campaigns to encourage basic subscribers to upgrade to a standard or the premium plan.
+- They should consider introducing a "Basic+" plan with a price slightly higher than that of the Basic Subcription and offers more features than the basic plan to imporve in revenue generated.
+### 4. Conclusion
+- The popuarity of the Basic Subscription plan highlights a significant market segment that values affordability. Therefore, to maximize revenue, the above strategic recomendations can be implemented to help shift some basi subscribers to higher plans.
+## 6. Customers who cancelled their Subscription within 6 months
 ![Screenshot (103)](https://github.com/user-attachments/assets/6a4ab5b8-2381-4657-b5d9-eaa92023ba88)
 
 
 
-## 9. Average Subscription Duration for all Customers
+## 7. Average Subscription Duration for all Customers
 ![Screenshot (104)](https://github.com/user-attachments/assets/4a3eb551-07ec-42da-8a28-763c1119f44e)
 
 
-## 10. Custormers with Subscription longer than 12 months
+## 8. Custormers with Subscription longer than 12 months
 ![Screenshot (112)](https://github.com/user-attachments/assets/cb96ccfa-66e4-4cb8-818a-476be8c7bfe8)
 
 
