@@ -97,6 +97,10 @@ Investing in infrastructure upgrade, investing in improving network reliability 
 ![Screenshot (88)](https://github.com/user-attachments/assets/38e0be11-66d3-43a6-b904-964c19a8f786)
 ### Pie Chart - Microsoft Excel
 ![Screenshot (144)](https://github.com/user-attachments/assets/3c3df258-dc06-4988-b97d-e4ebbc634231)
+### Filtered Column Chart for 2023
+![Screenshot (148)](https://github.com/user-attachments/assets/09f653f0-e452-4140-aa81-f8432b06c779)
+### Filtered Column Chart for 2024
+![Screenshot (147)](https://github.com/user-attachments/assets/78d9a11e-bd57-4245-97df-c91aae35fc25)
 
 
 
