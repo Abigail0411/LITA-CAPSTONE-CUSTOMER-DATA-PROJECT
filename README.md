@@ -43,6 +43,14 @@ The objective of the project was to analyzing customer data for Petal Internet S
 - For Visualization - Bar charts were used to visually represent key insights
 2. Structured Query Language(SQL) for Quering of Data
 3. Power BI used for converting data from different data sources to interactive dashbords and BI reports.
+  
+## Data Analysis
+- ### Excel formulars used
+- Total Sales = Quantity * Unit price
+- AVERAGEIF(range,criteria,[average_range]): This formular was used
+
+SUMIF(range,criteria,[sum_range])
+SQL queries executed
 
 ## Data Visualization and Analysis and Inferences
 ## 1. Region by Total Revenue - Microsoft Excel
