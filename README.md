@@ -91,12 +91,19 @@ To unlock the revenue potential in all the regions, Petal Internet Service Provi
 ![Screenshot (93)](https://github.com/user-attachments/assets/554c709f-44a1-4e69-ac05-042ce5fad944)
 
 
-## Total number of Active and Cancelled Subscription - SQL
-## Active
+## 5. Total number of Active and Cancelled Subscription - SQL
+## Active Subscription 
 ![Screenshot (113)](https://github.com/user-attachments/assets/3b512405-95fe-4f09-b7f1-61e3381c3300)
 
-## Cancelled
+## Cancelled Subscription 
 ![Screenshot (114)](https://github.com/user-attachments/assets/7c61534c-7817-4783-948c-599f2a93eb62)
+
+### Inferences
+- Active subscribtion represents the number of customers currently subscribed to the internet service.
+- Canceled subscription refers to the number of customers who canceled their subscription and left the service.
+### 1. Customers satisfaction and Service quality;
+- The returns om the SQL queries show that the no. of customers who are currently subscribed are more than the customers that left which may suggest that the service is of good quality.
+- Even though the returns show that active is more than canceled subscription, the number of subcribers that canceled are quite much which may indicate poor network performance, rising competition or inadequate customer support.
 
 
 ## 7.
