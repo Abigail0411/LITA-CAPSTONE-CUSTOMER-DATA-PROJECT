@@ -46,66 +46,70 @@ The objective of the project was to analyzing customer data for Petal Internet S
   
 ## Data Analysis
 - ### Excel formulars used
-- Total Sales = Quantity * Unit price
-- AVERAGEIF(range,criteria,[average_range]): This formular was used
+- SubscriptionEnd Date Minus SubscriptionStart Date
+- AVERAGE(number1,[number2],..): This formular was used to calculate the Average Subscription Duration
+![Screenshot (153)](https://github.com/user-attachments/assets/5f7c5493-a58f-45a9-9d23-3f28af9f6ea1)
+- COUNTIF(range, criteria): Used to find the most popular Subscription Type,whichis Basic Subscription Type
+![Screenshot (151)](https://github.com/user-attachments/assets/a1f35b00-e1e3-44ea-a19a-0a1cd954515d)
 
-SUMIF(range,criteria,[sum_range])
-SQL queries executed
+- ### SQL queries executed
+```SQL
 Select Region, Count(CustomerID) As Total_No_Customers
 From Customer_Data
 Group by Region
 Order by 2 Desc
 
----------find the most popular subscription type by the number of customers-----
 
+```SQL
 Select Top 1 SubscriptionType, Count(CustomerID) As Total_Customers
 From Customer_Data
 Group by SubscriptionType
 
----------find customers who canceled their subscription within 6 months-----
 
+```SQL
 Select CustomerID, CustomerName, SubscriptionStart, SubscriptionEnd, Canceled,
 Datediff(Month, SubscriptionStart, SubscriptionEnd) As Subscription_Duration
 From Customer_Data
 Where Canceled = 'True' and Datediff(Month, SubscriptionStart, SubscriptionEnd)<=6
  
- ------calculate the average subscription duration for all customers-----
 
-
+```SQL
 Select Avg(Datediff(Day, SubscriptionStart, SubscriptionEnd)) As Average_Subscription_Duration
 From Customer_Data
 
 
------find customers with subscriptions longer than 12 months-----
+```SQL
 Select CustomerID, CustomerName, SubscriptionStart, SubscriptionEnd, 
 Datediff(Month, SubscriptionStart, SubscriptionEnd) as Subscription_Length
 From Customer_Data
 Where Datediff(Month, SubscriptionStart, SubscriptionEnd)>12
 
----calculate total revenue by subscription type----
 
+```SQL
 Select SubscriptionType, Sum(Revenue) as Total_Revenue
 From Customer_Data
 Group by SubscriptionType
 
------find the top 3 regions by subscription cancellations------
 
+```SQL
 Select Top 3 Region, Count(Canceled) as Subscription_Cancelled
 From Customer_Data
 Where Canceled = 'True'
 Group by Region
 
 
-----find the total number of active and canceled subscriptions----
-
-
+```SQL
 SELECT COUNT(CustomerID) as Total_No_Of_Active_Subscription 
 FROM Customer_Data
 where Canceled = 'False'
+```
 
+```SQL
 SELECT COUNT(CustomerID) as Total_No_Of_Canceled_Subscription 
 FROM Customer_Data
 where Canceled = 'True'
+```
+
 ## Data Visualization and Analysis and Inferences
 ## 1. Region by Total Revenue - Microsoft Excel
 ## Pivot Table 1
