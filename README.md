@@ -158,7 +158,7 @@ For Petal Internet Service to manange the active and canceled subscriptions effe
 ### i. Overview Analysis
 - A zero cancellation rate within six months is a retention indicator which may sugest that customers are satisfied with the services.
 ### ii. Inferences
-- #### Trial Period Perception;
+- #### Trial or Temporary Use;
   * Some customers might subscribe for a year because they want to assess the performance of the provider service over a longertimeframe.
 - #### Yearly Pricing Discounts'
   * Customers might have subscriped because Petal internet service offers discounts incentives for customers that subscribes for more than six months. This also provides the customers a way to experience the service and see if it suits their preferences.
@@ -175,5 +175,17 @@ A zero cancellation rate in the first six monts reflects positively on Petal's s
 
 ## 8. Custormers with Subscription longer than 12 months
 ![Screenshot (112)](https://github.com/user-attachments/assets/cb96ccfa-66e4-4cb8-818a-476be8c7bfe8)
+### i. Inferences
+- #### Low Satisfaction or Value Perception;
+  * Custormers may not see enough value in the service to maintain long-term subscription. This couldbe due to poor custormer support or service reliability problems.
+- ### Trial or Temporary Use Cases;
+  * Some customers for have subscribed for short-term needs.
+- Competitors may offer more appealing packages at lower prices than Petal hence causing customers to switch providers within a year.
+### ii. Strategic Recommendations;
+- Petal should conduct surveys to understand why customers are leaving and not renewing.
+- They should improve their service quality inorder to improve on customer satisfaction.
+- They can also offer discounts for renewals for those who go for long-term plans.
+### iii. Conclusion
+Not having customers that subscribe for more than a year means that customers are not finding enough value to subscrip to that service for a long-term. Adressing and implementing the Strategic recomendations pointed out above will help foster longer subscription durations and build costomer loyalty.
 
-
+## CUSTOMER DASHBOARD
