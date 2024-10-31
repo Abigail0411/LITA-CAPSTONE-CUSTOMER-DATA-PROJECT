@@ -90,17 +90,14 @@ To unlock the revenue potential in all the regions, Petal Internet Service Provi
 ### 3. Conclusion
 Investing in infrastructure upgrade, investing in improving network reliability and introducing promotions will help in retaining and attracting new customers.
 
-## 2. Total Revenue by Subscription Type - SQL
+## 3. Total Revenue by Subscription Type - SQL
 
 ![Screenshot (106)](https://github.com/user-attachments/assets/7dcab25d-8cb2-476d-873b-7aff2aebfd53)
-![Screenshot (148)](https://github.com/user-attachments/assets/8155b7b9-9a3d-4711-ba8b-4ce21fb3f870)
-![Screenshot (147)](https://github.com/user-attachments/assets/3356c7aa-ffc4-43e3-81ec-4881d0feaedc)
-
-
-
-## 3. Percentage of Total Revenue by Subscription Type
+### Pivot Table - Microsoft Excel
 ![Screenshot (88)](https://github.com/user-attachments/assets/38e0be11-66d3-43a6-b904-964c19a8f786)
+### Pie Chart - Microsoft Excel
 ![Screenshot (144)](https://github.com/user-attachments/assets/3c3df258-dc06-4988-b97d-e4ebbc634231)
+
 
 
 ## 5. Total number of Active and Cancelled Subscription - SQL
