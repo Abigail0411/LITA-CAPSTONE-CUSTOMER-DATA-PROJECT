@@ -1,7 +1,7 @@
 # LITA-CAPSTONE-CUSTOMER-DATA-PROJECT
 
 ## Project Overview
-This project focuses on analyzing customer data for a subscription service to identify segments and trends with the aim of understanding customer behavior, tracking subscription types and pinpointing key parterns in cancellations and renewals. 
+This project focuses on analyzing customer data for Petal Internet Service Provider, a subscription service with the aim of gaining insights and understanding customer behavior, preferences, trends, tracking subscription types and pinpointing key parterns in cancellations and renewals.  
 
 ## Data Source
 The data used for this sales analysis was collected from the Subscription Service's Internal CRM and Billing Systems.
@@ -17,6 +17,8 @@ The data used for this sales analysis was collected from the Subscription Servic
 - Timeframe: Data from 31st of January 2022 to 1st of September 2024
 
 ## Project Objective
+The objective of the project was to analyzing customer data for Petal Internet Service Provider, a subscription service with the aim of gaining insights and understanding customer behavior, preferences, trends, tracking subscription types and pinpointing key parterns in cancellations and renewals.  Through this project, the service provider can optimize market and retention strategies as well as making imformed decisions that would help grow the service, improve customer service and boost retention. 
+
 The objectives of this project was to determine and analyze the following customer segments and subscription parterns
 - Region by Total Revenue
 - Total Revenue by Subscription Type
