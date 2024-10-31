@@ -69,8 +69,6 @@ South: The second leading region in generating sales in the year 2024.
 ### Conclusion
 To unlock the revenue potential in all the regions, Petal Internet Service Providers should focus on expanding infrastructure, improving network reliability, offering competitive pricing and improve on customer service.
 
-
-
 ## 2. Total Number of Customers from each region - SQL
 ![Screenshot (108)](https://github.com/user-attachments/assets/794ab4a6-bb41-4c34-a0d6-fb3cc8b53fe7)
 ## Pivot Table - Microsoft Excel
@@ -163,12 +161,12 @@ For Petal Internet Service to manange the active and canceled subscriptions effe
 - #### Trial Period Perception;
   * Some customers might subscribe for a year because they want to assess the performance of the provider service over a longertimeframe.
 - #### Yearly Pricing Discounts'
-  * Customers might have subscriped because Petal internet service offers discounts incentives for customers that subscribes for more than 6 months. This also provides the customers a way to experience the service and see if it suits their preferences.
+  * Customers might have subscriped because Petal internet service offers discounts incentives for customers that subscribes for more than six months. This also provides the customers a way to experience the service and see if it suits their preferences.
 ### iii. Strategic Recomendations
 - To prevent cancellations, the internet service provider should try to identify and adress any minor issues customers may face by conducting a survey.
 - Regulary benchmark against market pricing so as to ensure that competitors don't lure their customers away with competitive pricing.
 ### iv. Conclusion
-
+A zero cancellation rate in the first six monts reflects positively on Petal's service quality, pricing strategy and customer experience. By actively gathering feedback from the customers and offering discounts and promotions, Petal Internet Service Provider can retain customers.
 
 
 ## 7. Average Subscription Duration for all Customers
