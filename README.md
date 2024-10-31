@@ -73,6 +73,7 @@ To unlock the revenue potential in all the regions, Petal Internet Service Provi
 
 ## 2. Total Number of Customers from each region - SQL
 ![Screenshot (108)](https://github.com/user-attachments/assets/794ab4a6-bb41-4c34-a0d6-fb3cc8b53fe7)
+![Screenshot (93)](https://github.com/user-attachments/assets/554c709f-44a1-4e69-ac05-042ce5fad944)
 
 
 ## 2. Total Revenue by Subscription Type - SQL
@@ -86,9 +87,6 @@ To unlock the revenue potential in all the regions, Petal Internet Service Provi
 ## 3. Percentage of Total Revenue by Subscription Type
 ![Screenshot (88)](https://github.com/user-attachments/assets/38e0be11-66d3-43a6-b904-964c19a8f786)
 ![Screenshot (144)](https://github.com/user-attachments/assets/3c3df258-dc06-4988-b97d-e4ebbc634231)
-
-## 4. Active and Cancelled Subscription by each Region
-![Screenshot (93)](https://github.com/user-attachments/assets/554c709f-44a1-4e69-ac05-042ce5fad944)
 
 
 ## 5. Total number of Active and Cancelled Subscription - SQL
@@ -111,12 +109,6 @@ For Petal Internet Service to manange the active and canceled subscriptions effe
 ### Conclusion 
 - By understanding the factors behind active and cancelled subscriptions, Petal Internet Service Provider can drive improvements across engagement and pricing strategies.
 - The strategic interventions mentioned above will likely lead to higher retention rates and having a number of customers who are satisfied with the service.
-
-## 7.
-## Filtered Volumn Chart 2023
-![Screenshot (98)](https://github.com/user-attachments/assets/ee741791-74db-47df-91a7-427099f53c0a)
-## Filtered Volumn Chart 2024
-![Screenshot (99)](https://github.com/user-attachments/assets/7a7e0766-e655-450d-83b4-72149e2d9328)
 
 
 ## 7. The most popular Subscription Type by the number of Customers
