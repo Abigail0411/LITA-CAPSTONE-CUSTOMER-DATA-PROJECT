@@ -114,9 +114,8 @@ Investing in infrastructure upgrade, investing in improving network reliability 
    * The lower revenue contribution from Standard and Premium Subscriptions suggests that customers may not perceive enough value to want to upgrade.
 ### 3. Strategic Intervention;
  - Petal should enhance perceived value of Standard and Premium plans by adding exclusive features e.g bundled services or faster network speed.
- - Educate Basic Subscription users on the benefits of Standard and Premium Subscriptions through targeted campaigns and also review their prices and make it competitive without affecting potential profits on upgrades.
- - 
-### 4. Conclusion;
+ - Educate Basic Subscription users on the benefits of Standard and Premium Subscriptions through targeted campaigns and also review their prices and make it competitive without affecting potential profits on upgrades. 
+### iv. Conclusion;
 By enhancing percived value and upgrading the service, Petal can balance its revenue distribution well and increase profitability. Their goal is to reduce customer dependency on Basic Subscription making upgrades appealing and affordable in a way that alings with customer expectations.
 
 ## 4. Total number of Active and Cancelled Subscription - SQL
@@ -126,37 +125,49 @@ By enhancing percived value and upgrading the service, Petal can balance its rev
 ## Cancelled Subscription 
 ![Screenshot (114)](https://github.com/user-attachments/assets/7c61534c-7817-4783-948c-599f2a93eb62)
 
-### Inferences
+### i. Data Overview
 - Active subscribtion represents the number of customers currently subscribed to the internet service.
 - Canceled subscription refers to the number of customers who canceled their subscription and left the service.
-### 1. Customers satisfaction and Service quality;
+### ii. Customers satisfaction and Service quality;
 - The returns om the SQL queries show that the no. of customers who are currently subscribed are more than the customers that left which may suggest that the service is of good quality.
 - Even though the returns show that active is more than canceled subscription, the number of subcribers that canceled are quite much which may indicate poor network performance, rising competition or inadequate customer support.
-### 2. Strategic Intervention
+### iii. Strategic Intervention
 For Petal Internet Service to manange the active and canceled subscriptions effectively, they can implement the following strategies.
 - Ratain existing customers by enhancing service quality focusing on improving network reliability and speed, and also offering discounts or package upgrades to long-term subscribers.
 - They can minimize new cancellations by gathering regular feedback from customers, especially those who cancel their subscription, which will provide insights to address common concerns. Petal should ensure pricing is competitive by benchmarking against other providers in the market.
-### Conclusion 
+### iv. Conclusion 
 - By understanding the factors behind active and cancelled subscriptions, Petal Internet Service Provider can drive improvements across engagement and pricing strategies.
 - The strategic interventions mentioned above will likely lead to higher retention rates and having a number of customers who are satisfied with the service.
 
 
 ## 5. The most popular Subscription Type by the number of Customers
 ![Screenshot (109)](https://github.com/user-attachments/assets/5f1505b7-5a25-4735-99e3-58c02776f953)
-### 1. Data Overview
+### i. Data Overview
 -  Out of 33,787 customers, 16,921 customers are subscribed with the Basic Subscription plan making Basic plan the most popular subscription type.
-### 2. Inferences
+### ii. Inferences
 - #### Affordability;
   * The high popularity of basic subscription could suggest price-sensitive cusstomers who go for cheap andaffordable prices.
 - #### Service Requirement;
   * Many customers may only need the internet for basic tasks leading them to settle for theleast plan.
-### 3. Strategive Recomendations
+### iii. Strategive Recomendations
 - Petal should introduce targeted marketing campaigns to encourage basic subscribers to upgrade to a standard or the premium plan.
 - They should consider introducing a "Basic+" plan with a price slightly higher than that of the Basic Subcription and offers more features than the basic plan to imporve in revenue generated.
-### 4. Conclusion
+### iv. Conclusion
 - The popuarity of the Basic Subscription plan highlights a significant market segment that values affordability. Therefore, to maximize revenue, the above strategic recomendations can be implemented to help shift some basi subscribers to higher plans.
+  
 ## 6. Customers who cancelled their Subscription within 6 months
 ![Screenshot (103)](https://github.com/user-attachments/assets/6a4ab5b8-2381-4657-b5d9-eaa92023ba88)
+### i. Overview Analysis
+- A zero cancellation rate within six months is a retention indicator which may sugest that customers are satisfied with the services.
+### ii. Inferences
+- #### Trial Period Perception;
+  * Some customers might subscribe for a year because they want to assess the performance of the provider service over a longertimeframe.
+- #### Yearly Pricing Discounts'
+  * Customers might have subscriped because Petal internet service offers discounts incentives for customers that subscribes for more than 6 months. This also provides the customers a way to experience the service and see if it suits their preferences.
+### iii. Strategic Recomendations
+- To prevent cancellations, the internet service provider should try to identify and adress any minor issues customers may face by conducting a survey.
+- Regulary benchmark against market pricing so as to ensure that competitors don't lure their customers away with competitive pricing.
+### iv. Conclusion
 
 
 
