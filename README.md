@@ -4,7 +4,7 @@
 This project focuses on analyzing customer data for Petal Internet Service Provider, a subscription service with the aim of gaining insights and understanding customer behavior, preferences, trends, tracking subscription types and pinpointing key parterns in cancellations and renewals.  
 
 ## Data Source
-The data used for this sales analysis was collected from the Subscription Service's Internal CRM and Billing Systems.
+The data used for this sales analysis was collected from the Petal Internet Service Provider's Internal CRM and Billing Systems.
 - Data Collected:
 1. Custormer ID
 2. Custormer Name
@@ -244,7 +244,7 @@ A zero cancellation rate in the first six monts reflects positively on Petal's s
 ![Screenshot (112)](https://github.com/user-attachments/assets/cb96ccfa-66e4-4cb8-818a-476be8c7bfe8)
 ### i. Inferences
 - #### Low Satisfaction or Value Perception;
-  * Custormers may not see enough value in the service to maintain long-term subscription. This couldbe due to poor custormer support or service reliability problems.
+  * Custormers may not see enough value in the service to maintain long-term subscription. This could be due to poor custormer support or service reliability problems.
 - ### Trial or Temporary Use Cases;
   * Some customers for have subscribed for short-term needs.
 - Competitors may offer more appealing packages at lower prices than Petal hence causing customers to switch providers within a year.
@@ -255,4 +255,13 @@ A zero cancellation rate in the first six monts reflects positively on Petal's s
 ### iii. Conclusion
 Not having customers that subscribe for more than a year means that customers are not finding enough value to subscrip to that service for a long-term. Adressing and implementing the Strategic recomendations pointed out above will help foster longer subscription durations and build costomer loyalty.
 
-## CUSTOMER DASHBOARD
+## CUSTOMER DATA ANALYSIS DASHBOARD FOR PETAL INTERNET SERVICES
+
+## Filterd Dashboard for the year 2023
+![Screenshot (130)](https://github.com/user-attachments/assets/4730c02e-d578-4712-9f72-a400d96ab552)
+## Filterd Dashboard for the year 2024
+![Screenshot (129)](https://github.com/user-attachments/assets/d8c09704-32a2-4b74-8741-8e548c76cff3)
+![Screenshot (131)](https://github.com/user-attachments/assets/56fc1ecd-a33b-42c3-abe8-6994dce76fe5)
+
+
+
