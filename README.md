@@ -127,19 +127,21 @@ They are functions used to perform calculations and data analysis in Power BI.
         ```
 2. Calculated Columns : Conditional Function
    - Calculate Canceled Subscription Count
-|Column Name|Operator|Value|Output|
-|-----------|--------|------------|
-|Canceled|equals|True|1|Else 0|
-
- - Calculate Active Subscription Count
-
-|Column Name|Operator|Value|Output|
-|-----------|--------|------------|
-|Canceled|equals|False|1|Else 0|
 
 |Heading 1|Heading 2|Heading 3|Heading 4|
 |---------|---------|---------|---------|
-|Canceled|equals|False|1|Else 0|
+|Column Name|Operator|Value|Output|
+|Canceled|equals|True|1|
+|Else 0|
+
+
+ - Calculate Active Subscription Count
+|Heading 1|Heading 2|Heading 3|Heading 4|
+|---------|---------|---------|---------|
+|Column Name|Operator|Value|Output|
+|Canceled|equals|False|1|
+|Else 0|
+
 
 
 ## Data Visualization 
