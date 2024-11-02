@@ -136,6 +136,7 @@ They are functions used to perform calculations and data analysis in Power BI.
 
 
  - Calculate Active Subscription Count
+   
 |Heading 1|Heading 2|Heading 3|Heading 4|
 |---------|---------|---------|---------|
 |Column Name|Operator|Value|Output|
