@@ -110,6 +110,23 @@ SELECT COUNT(CustomerID) as Total_No_Of_Canceled_Subscription
 FROM Customer_Data
 where Canceled = 'True'
 ```
+- ### Dax Functions
+They are functions used to perform calculations and data analysis in Power BI.
+1. Measures - used to generate and callout certain valuesin reports and dashboards.
+   - Calculate Average Revenue
+     ```Dax
+     Average Revenue = Avg(CustomerData[Revenue])
+     ```
+     - Calculate the Number of Custormers
+        ```Dax
+       Customer Count = Count(CustomerData[Customrer Name])
+        ```
+  - Calculate Canceled Subscription Rate
+        ```Dax
+       Canceled Subscription Rate = Sum(CustomerData[Canceled Subscription Count])/Sum(CustomerData[Custormer Count])
+        ```
+2. Calculated Columns
+
 
 ## Data Visualization 
 ## 1. Region by Total Revenue - Microsoft Excel
