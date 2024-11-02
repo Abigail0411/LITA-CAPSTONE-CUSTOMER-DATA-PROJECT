@@ -244,8 +244,11 @@ A zero cancellation rate in the first six monts reflects positively on Petal's s
 A one year average subscription duration suggests that customers tend to stay for a long period. This may indicate a strong product market.
 - #### Competitive Positioning:
 Customers subscribing for a year might suggest that they see high quality service indicating that it provides long-term benefits rather than short-term appeal.
-### 
-Introduce options for longer subscription duration e.g two years at discounted rates to encourage longer commitments.
+### ii. Strategic Recommendations
+- Petal Internet service Provider can ntroduce options for longer subscription duration e.g two years at discounted rates to encourage longer commitments.
+- To maintain or increase to subscription duration years, PISP should ensure continuous infrastructure and features upgrades to optimize internet speed.
+- They can also consider providing semi-annual and quarterly renewal duration options to attract low budget customers allowing them to commit for shorter duration then upgrade to the annual later.
+### iii. Conclusion
 
 
 
