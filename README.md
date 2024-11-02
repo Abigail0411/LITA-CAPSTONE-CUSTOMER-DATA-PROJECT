@@ -249,7 +249,7 @@ Customers subscribing for a year might suggest that they see high quality servic
 - To maintain or increase to subscription duration years, PISP should ensure continuous infrastructure and features upgrades to optimize internet speed.
 - They can also consider providing semi-annual and quarterly renewal duration options to attract low budget customers allowing them to commit for shorter duration then upgrade to the annual later.
 ### iii. Conclusion
-
+- With an average subcription of 365 days, PISP demonstrates solid customer rentation. To sustain and extend this average, they should focus on improving service reliability, introducing flexible prices andimplementing the recomendations stated above so as to enhance customer satisfaction and have long-term subscribers. 
 
 
 ## 8. Custormers with Subscription longer than 12 months
@@ -267,7 +267,7 @@ Customers subscribing for a year might suggest that they see high quality servic
 ### iii. Conclusion
 Not having customers that subscribe for more than a year means that customers are not finding enough value to subscrip to that service for a long-term. Adressing and implementing the Strategic recomendations pointed out above will help foster longer subscription durations and build costomer loyalty.
 
-## CUSTOMER DATA ANALYSIS DASHBOARD FOR PETAL INTERNET SERVICES
+## Customer Data Visualization Dashboard for Petal Internet Services
 
 ## Filterd Dashboard for the year 2023
 ![Screenshot (130)](https://github.com/user-attachments/assets/4730c02e-d578-4712-9f72-a400d96ab552)
