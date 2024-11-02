@@ -126,7 +126,7 @@ They are functions used to perform calculations and data analysis in Power BI.
        Canceled Subscription Rate = Sum(CustomerData[Canceled Subscription Count])/Sum(CustomerData[Custormer Count])
         ```
 2. Calculated Columns : Conditional Function
-   - Calculate Canceled Subscription Count
+  - Calculate Canceled Subscription Count
 
 |Heading 1|Heading 2|Heading 3|Heading 4|
 |---------|---------|---------|---------|
