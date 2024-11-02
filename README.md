@@ -110,7 +110,7 @@ FROM Customer_Data
 where Canceled = 'True'
 ```
 
-## Data Visualization and Analysis and Inferences
+## Data Visualization 
 ## 1. Region by Total Revenue - Microsoft Excel
 ## Pivot Table 1
 ![Screenshot (87)](https://github.com/user-attachments/assets/4a1dcb89-4ea7-4ce3-8a53-51ca0fd24a37)
@@ -237,7 +237,16 @@ A zero cancellation rate in the first six monts reflects positively on Petal's s
 
 
 ## 7. Average Subscription Duration for all Customers
+## SQL Query 
 ![Screenshot (104)](https://github.com/user-attachments/assets/4a3eb551-07ec-42da-8a28-763c1119f44e)
+### i. Inferences
+- #### Custormer Loyalty:
+A one year average subscription duration suggests that customers tend to stay for a long period. This may indicate a strong product market.
+- #### Competitive Positioning:
+Customers subscribing for a year might suggest that they see high quality service indicating that it provides long-term benefits rather than short-term appeal.
+### 
+Introduce options for longer subscription duration e.g two years at discounted rates to encourage longer commitments.
+
 
 
 ## 8. Custormers with Subscription longer than 12 months
