@@ -326,12 +326,16 @@ Customers subscribing for a year might suggest that they see high quality servic
 Not having customers that subscribe for more than a year means that customers are not finding enough value to subscrip to that service for a long-term. Adressing and implementing the Strategic recomendations pointed out above will help foster longer subscription durations and build costomer loyalty.
 
 ## Customer Data Visualization Dashboard for Petal Internet Services
+![Screenshot (203)](https://github.com/user-attachments/assets/7c8bebb8-20bc-4c66-b458-f4822595ccd6)
+![Screenshot (131)](https://github.com/user-attachments/assets/56fc1ecd-a33b-42c3-abe8-6994dce76fe5)
 
 ## Filterd Dashboard for the year 2023
-![Screenshot (130)](https://github.com/user-attachments/assets/4730c02e-d578-4712-9f72-a400d96ab552)
+![Screenshot (207)](https://github.com/user-attachments/assets/e71e238a-d0d8-4c73-acb5-2ede15cba3fd)
+
 ## Filterd Dashboard for the year 2024
-![Screenshot (129)](https://github.com/user-attachments/assets/d8c09704-32a2-4b74-8741-8e548c76cff3)
-![Screenshot (131)](https://github.com/user-attachments/assets/56fc1ecd-a33b-42c3-abe8-6994dce76fe5)
+![Screenshot (206)](https://github.com/user-attachments/assets/30bde69e-bf9d-44a8-8387-6aa13ef6c803)
+
+
 
 
 
