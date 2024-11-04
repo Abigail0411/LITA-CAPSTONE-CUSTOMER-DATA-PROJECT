@@ -1,5 +1,21 @@
 # LITA-CAPSTONE-CUSTOMER-DATA-PROJECT
 
+## Context
+
+[Project Overview](#project-overview)
+
+[Data Source](#data-source)
+
+[Project Objective](#project-objective)
+
+[Data Cleaning and Exploratory Data Analysis](#data-Cleaning-and-exploratory-data-analysis)
+
+[Data Tools and Methods Used](#data-tools-and-methods-used)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ## Project Overview
 This project focuses on analyzing customer data for Petal Internet Service Provider, a subscription service with the aim of gaining insights and understanding customer behavior, preferences, trends, tracking subscription types and pinpointing key parterns in cancellations and renewals.  
 
