@@ -64,8 +64,12 @@ The objective of the project was to analyzing customer data for Petal Internet S
 - ### Excel formulars used
 - SubscriptionEnd Date Minus SubscriptionStart Date
 - AVERAGE(number1,[number2],..): This formular was used to calculate the Average Subscription Duration
+  ```AVERAGE(J2:J33788)```
 ![Screenshot (153)](https://github.com/user-attachments/assets/5f7c5493-a58f-45a9-9d23-3f28af9f6ea1)
-- COUNTIF(range, criteria): Used to find the most popular Subscription Type,whichis Basic Subscription Type
+- COUNTIF(range, criteria): Used to find the most popular Subscription Type,which is Basic Subscription Type
+   ```COUNTIF(D2:D33788,D2)``` - Basic
+   ```COUNTIF(D2:D33789,D5)``` - Standard
+   ```COUNTIF(D2:D33790,D3)``` - Premium
 ![Screenshot (151)](https://github.com/user-attachments/assets/a1f35b00-e1e3-44ea-a19a-0a1cd954515d)
 
 - ### SQL queries executed
