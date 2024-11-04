@@ -35,7 +35,7 @@ The data used for this sales analysis was collected from the Petal Internet Serv
 ## Project Objective
 The objective of the project was to analyzing customer data for Petal Internet Service Provider, a subscription service with the aim of gaining insights and understanding customer behavior, preferences, trends, tracking subscription types and pinpointing key parterns in cancellations and renewals.  Through this project, the service provider can optimize market and retention strategies as well as making imformed decisions that would help grow the service, improve customer service and boost retention. 
 
-## Data Cleaning and Exploratory Data Analysis (EDA)
+## Data Cleaning and Exploratory Data Analysis
 - EDA alongside data cleaning was performed in this project to understand the dataset's structure, identify and handle missing values and address any data quality issues.
   * The data was checked for duplicates by highlighting the whole data in an excel sheet and clicking on the 'Remove Duplicates' in the Data tab interface.
   * Data quality was checked for in the data when it was uploaded in Power Bi to check for any errors in the data.
